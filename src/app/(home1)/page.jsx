@@ -29,7 +29,7 @@ const page = () => {
                 cuscontent="Happy Customers"
                 rating="4.8/5"
                 ratingcon="Rating"
-                img="/assets/images/intro/introThumb1_1.png"
+                img="/assets/images/intro/introThumb2_1.avif"
             ></HeroBanner1>
             <Brand1></Brand1>   
             <About1
