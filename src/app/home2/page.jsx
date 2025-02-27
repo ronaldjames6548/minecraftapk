@@ -20,9 +20,9 @@ const page = () => {
                 btnurl="/contact"
                 btnname2="Learn More"
                 btnurl2="/about"                
-                img1="/assets/images/intro/introThumb2_1.png"
-                img2="/assets/images/intro/introThumb2_2.png"
-                img3="/assets/images/intro/introThumb2_3.png"
+                img1="/assets/images/intro/introThumb2_1.avif"
+                img2="/assets/images/intro/introThumb2_2.avif"
+                img3="/assets/images/intro/introThumb2_3.avif"
             ></HeroBanner2>
             <About2
                 subtitle="About Us"
